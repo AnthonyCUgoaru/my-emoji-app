@@ -1,4 +1,4 @@
-const myEmojis = ["👨‍💻", "⛷", "🍲"]
+const myEmojis = ["👨🏾‍🦱", "👨🏾‍💻", "🎮"]
 
 function renderEmojis() {
     const emojiContainer = document.getElementById("emoji-container")
